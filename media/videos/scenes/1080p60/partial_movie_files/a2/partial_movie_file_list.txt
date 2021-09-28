@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/mohammad/Documents/GitHub/Trigonometric-circle-manim-animate/media/videos/scenes/1080p60/partial_movie_files/a2/469287742_3608633755_4141615797.mp4'
+file 'file:/home/mohammad/Documents/GitHub/Trigonometric-circle-manim-animate/media/videos/scenes/1080p60/partial_movie_files/a2/545107756_644136846_524015921.mp4'
+file 'file:/home/mohammad/Documents/GitHub/Trigonometric-circle-manim-animate/media/videos/scenes/1080p60/partial_movie_files/a2/545107756_1665440583_4011257517.mp4'
+file 'file:/home/mohammad/Documents/GitHub/Trigonometric-circle-manim-animate/media/videos/scenes/1080p60/partial_movie_files/a2/545107756_3842274928_100854611.mp4'
+file 'file:/home/mohammad/Documents/GitHub/Trigonometric-circle-manim-animate/media/videos/scenes/1080p60/partial_movie_files/a2/545107756_2875779866_659040270.mp4'
+file 'file:/home/mohammad/Documents/GitHub/Trigonometric-circle-manim-animate/media/videos/scenes/1080p60/partial_movie_files/a2/545107756_3953820662_709583135.mp4'
